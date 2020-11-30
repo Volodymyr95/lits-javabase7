@@ -1,3 +1,5 @@
 1. Create git account
 2. Push previous hw on git
 3. Add git ignore
+4. Create global repo (someone) + invite all
+5. Заповіт + pull requsts

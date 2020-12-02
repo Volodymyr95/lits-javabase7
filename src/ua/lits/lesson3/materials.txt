@@ -1,0 +1,9 @@
+https://www.w3schools.com/java/java_conditions.asp
+https://www.w3schools.com/java/java_switch.asp
+https://www.w3schools.com/java/java_while_loop.asp
+https://www.w3schools.com/java/java_for_loop.asp
+https://www.w3schools.com/java/java_break.asp
+https://www.w3schools.com/java/java_arrays.asp
+
+http://www.dblab.ntua.gr/~gtsat/collection/Java%20books/Bruce.Eckel.Thinking.In.Java.4th.Edition.Dec.2007.eBook-BBL.pdf
+https://github.com/ontiyonke/book-1/blob/master/%5BJAVA%5D%5BThe%20Complete%20Reference%20Java%20Ninth%20Edition%5D.pdf

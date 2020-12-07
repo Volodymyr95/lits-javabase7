@@ -1,0 +1,12 @@
+https://docs.oracle.com/javase/tutorial/java/javaOO/index.html
+
+https://www.w3schools.com/java/java_methods.asp
+https://www.w3schools.com/java/java_methods_param.asp
+https://www.w3schools.com/java/java_recursion.asp
+
+https://www.w3schools.com/java/java_oop.asp
+https://www.w3schools.com/java/java_classes.asp
+https://www.w3schools.com/java/java_class_attributes.asp
+https://www.w3schools.com/java/java_class_methods.asp
+https://www.w3schools.com/java/java_constructors.asp
+https://www.w3schools.com/java/java_modifiers.asp

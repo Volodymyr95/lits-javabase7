@@ -1,5 +1,7 @@
 package ua.lits.lesson4;
 
+import ua.lits.lesson5.encapsulation.FakeHttpClient;
+
 public class Main {
 
   public static Human godOfThunder = new Human("Thor", "Odinson");

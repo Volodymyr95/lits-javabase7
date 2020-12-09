@@ -1,0 +1,20 @@
+1. Create SpaceX
+2. Create SpaceX and 3 sub classes with updates
+
+SpaceX:
+
+1 sub    2 sub
+subY(extends 1 sub)      subZ(extends 2sub)
+
+                         subX(extend subZ)
+
+3. Use encapsulation
+4. Find final classes in JDK
+
+
+Additional HW:
+
+ - вивести суму всіх непарних індексів масиву
+ - згенерувати рандомний масив на 100 елементів і вивести всі кратні 2,3,5
+ - вести середнє значення всіх парних/непарних елементів
+ - знайти нск в масиві

@@ -1,4 +1,4 @@
-package ua.lits.lesson07;
+package ua.lits.lesson7;
 
 @FunctionalInterface
 public interface AddingPetrol {

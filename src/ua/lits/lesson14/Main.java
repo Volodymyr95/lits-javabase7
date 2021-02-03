@@ -63,11 +63,11 @@ public class Main {
     //        .map(e -> e.getTitle())
     //        .forEach(e -> System.out.println(e));
 
-    authors.stream()
-        .map(e -> e.getBooks())
-        .flatMap(e -> e.stream())
-        .sorted(Comparator.comparing(Book::getTitle))
-        //        .peek(e -> System.out.println("Зараз ми читаємо книжку " + e.getTitle()))
+//    authors.stream()
+//        .map(e -> e.getBooks())
+//        .flatMap(e -> e.stream())
+//        .sorted(Comparator.comparing(Book::getTitle))
+//        //        .peek(e -> System.out.println("Зараз ми читаємо книжку " + e.getTitle()))
         //        .map(
         //            e -> {
         //              e.setTitle("asdasd");
@@ -86,9 +86,9 @@ public class Main {
         //      .collect(Collectors.toMap(e -> e.getTitle(), e -> e.getGenre()));
         //      .collect(Collectors.groupingBy(e -> e.getTitle()));
         //        .filter(e -> e.getTitle().equals("Гра Престолів"))
-        .findFirst()
-        .map(e -> e.getTitle())
-        .ifPresent(e -> System.out.println(e));
+//        .findFirst()
+//        .map(e -> e.getTitle())
+//        .ifPresent(e -> System.out.println(e));
     //            .orElseGet(() -> new Book("aasd"));
     //        .ifPresentOrElse(e -> System.out.println(e.getTitle()), () ->
     // System.out.println("книжки не існує"));

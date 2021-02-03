@@ -37,4 +37,4 @@ public class Book {
         this.genre = genre;
     }
 }
-/Users/volodymyrrachuk/Study/lits/JB007/src/ua/lits/lesson14/Author.java
+//Users/volodymyrrachuk/Study/lits/JB007/src/ua/lits/lesson14/Author.java
